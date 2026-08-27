@@ -20,5 +20,13 @@ student_info = {
 #for key in student_info.items():
 #    print(key)
 
-for key, value in student_info.items():
-    print(f"Your {key} is {value}")
+#for key, value in student_info.items():
+#    print(f"Your {key} is {value}")
+
+student_info["ID"] = "123"
+print(student_info)
+
+student_info["address"] = "Mingla"
+print(student_info)
+del student_info["ID"]
+print(student_info)

@@ -29,6 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dictionary.executor": "Run",
     "Python.examples.executor": "Run",
     "Python.main.executor": "Run",
     "Python.set.executor": "Run",
